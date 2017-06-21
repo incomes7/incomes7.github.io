@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frs on INCOMES</title>
+    <link>/tags/frs/</link>
+    <description>Recent content in Frs on INCOMES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/frs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ФРС</title>
+      <link>/post/2017-06-20-/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>/post/2017-06-20-/</guid>
+      <description>Вчерашнее решение Федеральной Резервной системы относительно ключевой ставки, как и прогнозировалось, малозаметно отразилось на рынке. Повышение ключевой fed funds rate на 0,25% до уровней 1-1,25% к моменту оглашения решения было уже полностью заложено в ценах. Из опрошенных агентством Bloomberg ста экономистов, 95 ожидали повышение на 25 п.п. Гораздо больше рынок ждал от пресс-конференции председателя ФРС Джанет Йеллен, в лице которой воплощено видение регулятора по дальнейшим шагам нормализации монетарной политики. Первый вопрос, к которому было приковано внимание участников рынка, это обоснование планируемых ФРС еще четырех раундов повышения ставки до конца 2018 года, тогда как, судя по данным фьючерсов на процентную ставку, рынок склонен ожидать только один или два повышения.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on INCOMES</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on INCOMES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Frs</title>
+      <link>/tags/frs/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>/tags/frs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Msft</title>
+      <link>/tags/msft/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>/tags/msft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nasdq</title>
+      <link>/tags/nasdq/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>/tags/nasdq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oil</title>
+      <link>/tags/oil/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>/tags/oil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sp500</title>
+      <link>/tags/sp500/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>/tags/sp500/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
