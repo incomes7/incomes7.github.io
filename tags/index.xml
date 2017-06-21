@@ -21,41 +21,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Msft</title>
-      <link>/tags/msft/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>/tags/msft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nasdq</title>
-      <link>/tags/nasdq/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>/tags/nasdq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oil</title>
-      <link>/tags/oil/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>/tags/oil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sp500</title>
-      <link>/tags/sp500/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>/tags/sp500/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

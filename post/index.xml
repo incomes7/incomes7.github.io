@@ -7,55 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
-    <lastBuildDate>Wed, 21 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>APPLE</title>
-      <link>/post/apple/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>/post/apple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MSFT</title>
-      <link>/post/msft/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>/post/msft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NASDAQ</title>
-      <link>/post/nasdaq/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>/post/nasdaq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Заметка</title>
-      <link>/post/sp500/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>/post/sp500/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Заметка про нефть</title>
-      <link>/post/2017-06-21-oil/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>/post/2017-06-21-oil/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>ФРС</title>
