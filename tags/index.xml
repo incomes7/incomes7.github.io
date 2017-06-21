@@ -5,8 +5,8 @@
     <link>/tags/</link>
     <description>Recent content in Tags on INCOMES</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <managingEditor>incomes@icesys.ru</managingEditor>
+    <webMaster>incomes@icesys.ru</webMaster>
     <lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <title>Frs</title>
       <link>/tags/frs/</link>
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>incomes@icesys.ru</author>
       <guid>/tags/frs/</guid>
       <description></description>
     </item>

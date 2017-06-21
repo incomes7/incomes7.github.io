@@ -5,8 +5,8 @@
     <link>/info/</link>
     <description>Recent content in Infos on INCOMES</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <managingEditor>incomes@icesys.ru</managingEditor>
+    <webMaster>incomes@icesys.ru</webMaster>
     
 	<atom:link href="/info/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>О проекте</title>
       <link>/info/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>incomes@icesys.ru</author>
       <guid>/info/about/</guid>
       <description>Информация о нашем проекте</description>
     </item>
