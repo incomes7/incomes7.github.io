@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qatar on INCOMES</title>
+    <link>/tags/qatar/</link>
+    <description>Recent content in Qatar on INCOMES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>incomes@icesys.ru</managingEditor>
+    <webMaster>incomes@icesys.ru</webMaster>
+    <lastBuildDate>Thu, 13 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/qatar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Отмена привязки катарского риала к доллару США</title>
+      <link>/post/qatar/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      <author>incomes@icesys.ru</author>
+      <guid>/post/qatar/</guid>
+      <description>Отмена привязки катарского риала к доллару США
+В июле 2001 года катарский риал (QAR) был привязан к доллару США (USD). Валютный курс USD-QAR с тех пор и до недавнего времени поддерживался на уровне 3.64. Но в результате недавнего разрыва отношений между Катаром и арабскими странами, катарский риал подвергся сильному давлению. За последние несколько дней обменный курс USD-QAR достиг уровня 3.78. Тем не менее, это еще нельзя назвать либерализацией обменного курса, так как центральный банк все же поддерживает обменный курс USD-QAR на более или менее стабильном уровне, что обеспечивает на данный момент ограниченное обесценивание валюты.</description>
+    </item>
+    
+  </channel>
+</rss>
