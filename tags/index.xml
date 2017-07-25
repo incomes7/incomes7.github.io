@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on INCOMES</title>
-    <link>https://shanidze810.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on INCOMES</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>incomes@icesys.ru</managingEditor>
     <webMaster>incomes@icesys.ru</webMaster>
     <lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shanidze810.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Frs</title>
-      <link>https://shanidze810.github.io/tags/frs/</link>
+      <link>/tags/frs/</link>
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
       <author>incomes@icesys.ru</author>
-      <guid>https://shanidze810.github.io/tags/frs/</guid>
+      <guid>/tags/frs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opec</title>
-      <link>https://shanidze810.github.io/tags/opec/</link>
+      <link>/tags/opec/</link>
       <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
       <author>incomes@icesys.ru</author>
-      <guid>https://shanidze810.github.io/tags/opec/</guid>
+      <guid>/tags/opec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peg</title>
-      <link>https://shanidze810.github.io/tags/peg/</link>
+      <link>/tags/peg/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       <author>incomes@icesys.ru</author>
-      <guid>https://shanidze810.github.io/tags/peg/</guid>
+      <guid>/tags/peg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qatar</title>
-      <link>https://shanidze810.github.io/tags/qatar/</link>
+      <link>/tags/qatar/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       <author>incomes@icesys.ru</author>
-      <guid>https://shanidze810.github.io/tags/qatar/</guid>
+      <guid>/tags/qatar/</guid>
       <description></description>
     </item>
     

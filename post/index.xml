@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on INCOMES</title>
-    <link>https://shanidze810.github.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on INCOMES</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>incomes@icesys.ru</managingEditor>
     <webMaster>incomes@icesys.ru</webMaster>
     <lastBuildDate>Tue, 25 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shanidze810.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Сокращение добычи нефти OPEC</title>
-      <link>https://shanidze810.github.io/post/oil/</link>
+      <link>/post/oil/</link>
       <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
       <author>incomes@icesys.ru</author>
-      <guid>https://shanidze810.github.io/post/oil/</guid>
+      <guid>/post/oil/</guid>
       <description>ОПЕК сообщил, что добыча нефти в июне увеличилась на 394 тысяч баррелей в сутки. Увеличение на 240 тысяч баррелей в сутки было осуществлено со стороны Ливии, Нигерии и Алжира, оставшиеся 154 тысячи баррелей в сутки пришлись на долю остальных стран. В частности, Ирак увеличил добычу на 61 тысячу баррелей в сутки, что в общей сложность для Ирака составляет 4,5 млн баррелей в стуки, в то время как Саудовская Аравия, увеличив добычу на 51 тысячу баррелей в сутки, достигла показателя в 9,95 млн баррелей в сутки.</description>
     </item>
     
     <item>
       <title>Отмена привязки катарского риала к доллару США</title>
-      <link>https://shanidze810.github.io/post/qatar/</link>
+      <link>/post/qatar/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       <author>incomes@icesys.ru</author>
-      <guid>https://shanidze810.github.io/post/qatar/</guid>
+      <guid>/post/qatar/</guid>
       <description>В июле 2001 года катарский риал (QAR) был привязан к доллару США (USD). Валютный курс USD-QAR с тех пор и до недавнего времени поддерживался на уровне 3.64. Но в результате недавнего разрыва отношений между Катаром и арабскими странами, катарский риал подвергся сильному давлению. За последние несколько дней обменный курс USD-QAR достиг уровня 3.78. Тем не менее, это еще нельзя назвать либерализацией обменного курса, так как центральный банк все же поддерживает обменный курс USD-QAR на более или менее стабильном уровне, что обеспечивает на данный момент ограниченное обесценивание валюты.</description>
     </item>
     
     <item>
       <title>ФРС</title>
-      <link>https://shanidze810.github.io/post/2017-06-20-/</link>
+      <link>/post/2017-06-20-/</link>
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
       <author>incomes@icesys.ru</author>
-      <guid>https://shanidze810.github.io/post/2017-06-20-/</guid>
+      <guid>/post/2017-06-20-/</guid>
       <description>Вчерашнее решение Федеральной Резервной системы относительно ключевой ставки, как и прогнозировалось, малозаметно отразилось на рынке. Повышение ключевой fed funds rate на 0,25% до уровней 1-1,25% к моменту оглашения решения было уже полностью заложено в ценах. Из опрошенных агентством Bloomberg ста экономистов, 95 ожидали повышение на 25 п.п. Гораздо больше рынок ждал от пресс-конференции председателя ФРС Джанет Йеллен, в лице которой воплощено видение регулятора по дальнейшим шагам нормализации монетарной политики. Первый вопрос, к которому было приковано внимание участников рынка, это обоснование планируемых ФРС еще четырех раундов повышения ставки до конца 2018 года, тогда как, судя по данным фьючерсов на процентную ставку, рынок склонен ожидать только один или два повышения.</description>
     </item>
     
