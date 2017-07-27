@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fed on INCOMES</title>
+    <link>/tags/fed/</link>
+    <description>Recent content in Fed on INCOMES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>incomes@icesys.ru</managingEditor>
+    <webMaster>incomes@icesys.ru</webMaster>
+    <lastBuildDate>Thu, 27 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/fed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Итоги заседания ФРС США и EUR/USD</title>
+      <link>/post/fed/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <author>incomes@icesys.ru</author>
+      <guid>/post/fed/</guid>
+      <description>Решение ФРС о сохранении ключевой ставки на прежнем уровне не было сюрпризом для рынка. Интересны были комментарии по результатам заседания. Мы отдельно выделяем тезис о том, что динамика инфляции идёт вразрез с ожиданиями: ИПЦ и базовая инфляция снизились ниже 2% и вероятно останутся на этих низких уровнях в среднесрочной перспективе. Очевидно, что для ФРС нет никаких причин для активных действий. В то же время регулятор сохраняет план по началу сокращения своего баланса, старт которого запланирован на сентябрь.</description>
+    </item>
+    
+  </channel>
+</rss>
