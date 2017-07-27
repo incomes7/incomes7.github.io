@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/cb/</loc>
+    <lastmod>2017-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/oil/</loc>
     <lastmod>2017-07-25T00:00:00+00:00</lastmod>
   </url>
@@ -24,11 +29,17 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cb/</loc>
+    <lastmod>2017-07-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,6 +51,12 @@
   
   <url>
     <loc>/info/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/keyrate/</loc>
+    <lastmod>2017-07-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -62,7 +79,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -74,7 +91,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2017-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>incomes@icesys.ru</managingEditor>
     <webMaster>incomes@icesys.ru</webMaster>
-    <lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cb</title>
+      <link>/tags/cb/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <author>incomes@icesys.ru</author>
+      <guid>/tags/cb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Frs</title>
@@ -18,6 +27,15 @@
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
       <author>incomes@icesys.ru</author>
       <guid>/tags/frs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keyrate</title>
+      <link>/tags/keyrate/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <author>incomes@icesys.ru</author>
+      <guid>/tags/keyrate/</guid>
       <description></description>
     </item>
     
