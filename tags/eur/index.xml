@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eur on INCOMES</title>
+    <link>/tags/eur/</link>
+    <description>Recent content in Eur on INCOMES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>incomes@icesys.ru</managingEditor>
+    <webMaster>incomes@icesys.ru</webMaster>
+    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/eur/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Валютный рынок: быки в Европе правят бал</title>
+      <link>/post/boe/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <author>incomes@icesys.ru</author>
+      <guid>/post/boe/</guid>
+      <description>Еще одно восходящее движение в GBPUSD и EURUSD, отрисовавшее новые локальные максимумы. Подобная &#34;распродажа&#34; доллара объясняется не только ребалансировкой позиций в конце месяца, но и явно является частью продолжающегося уже несколько недель &#34;обыгрывания&#34; (1) расхождения денежной политики в EUR и GBP с политикой ФРС и (2) растущей неопределенности в действиях администрации Трампа касательно будущей экономической политики. Все это приводит рынок к мысли о наблюдаемом конце &#34;эры сильного доллара&#34;. Сегодня мы ждем очередной тест наблюдаемого тренда - макроэкономические данные Европы (безработица в Германии и квартальные данные о ВВП в Евросоюзе) идут в консенсусе с рынком, что позитивно для EURUSD.</description>
+    </item>
+    
+  </channel>
+</rss>

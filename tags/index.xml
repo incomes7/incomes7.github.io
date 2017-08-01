@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Eur</title>
+      <link>/tags/eur/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <author>incomes@icesys.ru</author>
+      <guid>/tags/eur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fed</title>
       <link>/tags/fed/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
@@ -36,6 +45,15 @@
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
       <author>incomes@icesys.ru</author>
       <guid>/tags/frs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gbp</title>
+      <link>/tags/gbp/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <author>incomes@icesys.ru</author>
+      <guid>/tags/gbp/</guid>
       <description></description>
     </item>
     
@@ -72,6 +90,15 @@
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       <author>incomes@icesys.ru</author>
       <guid>/tags/qatar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usd</title>
+      <link>/tags/usd/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <author>incomes@icesys.ru</author>
+      <guid>/tags/usd/</guid>
       <description></description>
     </item>
     
