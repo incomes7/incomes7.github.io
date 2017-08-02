@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/rub/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/boe/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -39,7 +44,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -107,13 +112,19 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/qatar/</loc>
     <lastmod>2017-07-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rub/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
