@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>China on INCOMES</title>
+    <link>/tags/china/</link>
+    <description>Recent content in China on INCOMES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>incomes@icesys.ru</managingEditor>
+    <webMaster>incomes@icesys.ru</webMaster>
+    <lastBuildDate>Mon, 07 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/china/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Китай: тренды валютного рынка</title>
+      <link>/post/china_07_08_17/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      <author>incomes@icesys.ru</author>
+      <guid>/post/china_07_08_17/</guid>
+      <description>После падения в 2016 году, китайский юань начал укреплять свои позиции в первые месяцы 2017 года. Сейчас он находится на уровне 6,73 за доллар, укрепившись на 1,8% с середины мая и 3,3% с начала года после рекордного снижения в 6,5% в прошлом году. Наблюдаемый рост имеет два основных драйвера - внешний и внутренний. Внешний при этом весьма тривиален - структурное ослабление доллара в силу &#34;слабости&#34; экономической повестки администрации Трампа, чья целостность не очевидна ни внутри США, ни финансовому рынку в целом.</description>
+    </item>
+    
+  </channel>
+</rss>
