@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>incomes@icesys.ru</managingEditor>
     <webMaster>incomes@icesys.ru</webMaster>
-    <lastBuildDate>Mon, 07 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Итоги заседания ФРС США: Сентябрь 2017</title>
+      <link>/post/fed_27_09_17/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <author>incomes@icesys.ru</author>
+      <guid>/post/fed_27_09_17/</guid>
+      <description>Федеральная резервная система (ФРС) США по итогам заседания 19-20 сентября приняла решение сохранить ключевую процентную ставку в диапазоне 1-1,25% годовых. При этом Федрезерв заявил, что в октябре планирует начать сокращение активов на балансе, объем которых после стимулирующих программ достиг $4,5 трлн. После заседания, вероятность повышения ставки в декабре достигла 64% (на основе текущих котировок фьючерсов). Члены FOMC придерживаются своих ожиданий в отношении политики регулятора на 2017 и 2018 годы. Они по прежнему ожидают повышения ставок в декабре и три повышения ставок в 2018 году.</description>
+    </item>
     
     <item>
       <title>Китай: тренды валютного рынка</title>
